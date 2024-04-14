@@ -9,6 +9,6 @@ Students must collect their orders from the main gate of our college when orderi
  We devised a solution to address the issue mentioned earlier. Our team developed a website where students can submit their orders. Instead of students individually collecting orders, a designated individual is responsible for collecting all the orders. At the end of the day, this person delivers the orders to each respective student.
 
 # Technologies Used
-Frontend : HTML5,CSS,Bootstrap <br>
+Frontend : HTML5,CSS,Bootstrap,javascript <br>
 Backend  : php and MySQL <br>
 database : phpMyAdmin 
